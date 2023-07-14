@@ -1,0 +1,31 @@
+body{
+    background-color: darkcyan;
+}
+#heading{
+    height: 75px;
+    width: 500px;
+    background-color: black;
+    color: azure;
+    margin: auto;
+    margin-top: 55px;
+
+}
+#heading h1{
+    text-align: center;
+    padding-top: 3px;
+}
+form{
+    background-color: black;
+    color: white;
+    width: 500px;
+    margin: auto;
+    margin-top: 30px;
+    text-align: center;
+
+}
+.sbody{
+    background:linear-gradient(pink,white);
+   margin: auto;
+    margin-top: 350px;
+    text-align: center;
+}
